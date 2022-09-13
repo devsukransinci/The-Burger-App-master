@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1069110486575",
+    "firebase_url": "https://opencart-shop-94f38-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "opencart-shop-94f38",
+    "storage_bucket": "opencart-shop-94f38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069110486575:android:edfd5735f9d144f15bc8da",
+        "android_client_info": {
+          "package_name": "com.opencart.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069110486575-abppkvsa9a2ssers0k1tibvemft3lgtn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS-DVnPdtodyJQ3SLI-eepIdr8hSmlDgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069110486575-abppkvsa9a2ssers0k1tibvemft3lgtn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
